@@ -9,7 +9,7 @@ This code is built based on the sample code in the following document.
 
 ## Description
 
-Checking if the fllowing names are contained in enumerated Storage/Stream in the document.
+Checking if the following names are contained in enumerated Storage/Stream in the document.
 
 - RMS Encrypted: DRMEncryptedDataSpace
 - Password Encrypted: StrongEncryptionTransform/EncryptionInfo
