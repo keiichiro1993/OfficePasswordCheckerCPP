@@ -14,5 +14,5 @@ Checking if the following names are contained in enumerated Storage/Stream in th
 - RMS Encrypted: DRMEncryptedDataSpace
 - Password Encrypted: StrongEncryptionTransform/EncryptionInfo
 
-You can use IsRMSEncrypted/IsPasswordEncrypted functions but they just check the existance of these names.
+You can use IsRMSEncrypted/IsPasswordEncrypted functions but they just check the existance of these names.  
 Practically, these names cannot be the last member of the vector which contains the names.
